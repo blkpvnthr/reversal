@@ -13,7 +13,7 @@ This project fetches Consumer Price Index (CPI) data from the **FRED API**, proc
 ## 📦 Dependencies
 Install the required Python packages:
 ```sh
-pip install requests pandas numpy matplotlib seaborn yfinance scipy configparser
+pip install -r requirements.txt
 ```
 
 ## 🔑 Configuration
