@@ -1,6 +1,6 @@
 # CPI Inflation Calculation & Stock Market Analysis
 
-This project fetches Consumer Price Index (CPI) data from the **FRED API**, processes it, and compares it to stock market data obtained from **Yahoo Finance**. The script utilizes feature engineering to output a Statistical Summary and Perform Regression Analysis on your downloaded csv stock data. Then plots key metrics for better analysis comprehension.
+This project fetches Consumer Price Index (CPI) data from the **FRED API**, processes it, and compares it to stock market data obtained from **Yahoo Finance**. The script then utilizes feature engineering to output a Statistical Summary and Perform Regression Analysis on your downloaded csv stock data. Then plots key metrics for better analysis comprehension.
 
 <img src="stock.gif" style="width: 1000px;">
 
