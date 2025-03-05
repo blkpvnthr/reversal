@@ -2,7 +2,7 @@
 
 This project fetches Consumer Price Index (CPI) data from the **FRED API**, processes it, and compares it to stock market data obtained from **Yahoo Finance**. The script also applies various data-filling methods and performs statistical analysis on stock returns.
 
-<img src="stock.gif" style="width: 100%">
+<img src="stock.gif" style="width: 1000px;">
 
 ## 📦 Dependencies
 Install the required Python packages:
