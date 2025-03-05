@@ -2,13 +2,7 @@
 
 This project fetches Consumer Price Index (CPI) data from the **FRED API**, processes it, and compares it to stock market data obtained from **Yahoo Finance**. The script also applies various data-filling methods and performs statistical analysis on stock returns.
 
-## 🚀 Features
-- Fetch **CPI data** from FRED API
-- Fetch **stock market data** from Yahoo Finance (YFinance)
-- Compute **inflation rates** and handle missing values
-- Compare stock returns to inflation-adjusted returns
-- Compute **realized volatility** for inflation and stock returns
-- Generate **data visualizations** for CPI, inflation, and stock performance
+<img src="stock.gif">
 
 ## 📦 Dependencies
 Install the required Python packages:
